@@ -1,1 +1,2 @@
 # SmallP
+SmallP is designed as python software with the aim of enhancing the intelligence of disulfide-bonded peptide analysis, particularly for disulfide-rich peptides. It integrates peak detection and sequence identification functionalities, such as targeted disulfide-bonded peptide screening, database searching, and sequence match filtering, thereby enabling automated characterization of disulfide-bonded peptides in complex systems.
